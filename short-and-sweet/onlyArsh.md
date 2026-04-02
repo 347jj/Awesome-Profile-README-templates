@@ -1,3 +1,3 @@
 Hi, my name is JJ
-Cybersecurity student at UTSA
+I'm a Cybersecurity student at UTSA
 This is my GitHub profile project
